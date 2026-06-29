@@ -1,6 +1,8 @@
 #  Car Management System
 
-A **Java Console-Based Car Management System** developed using **JDBC** and **PostgreSQL**. The application provides a secure login system with **Role-Based Access Control (RBAC)** and allows administrators to manage car records while giving regular users read-only access.
+The main objective of this ***Car Management System*** project is to develop a system that helps efficiently manage car inventory details along with user access control. In real-world scenarios, it becomes difficult to manually maintain and track large numbers of vehicle records in a structured manner. This system automates the process of storing, updating, searching, and deleting car information, making data management simple, fast, and reliable.
+
+The Car Management System is a console-based application developed using **Java, JDBC, and PostgreSQL**. It also includes a **Role-Based Access Control (RBAC)** system, where administrators have full control over car records, while normal users are restricted to view and search operations only.
 
 This project demonstrates practical implementation of **Core Java**, **JDBC**, **DAO Design Pattern**, **Exception Handling**, and **Database Integration**.
 
@@ -116,13 +118,14 @@ Delete a car record by ID (Admin only).
 
 #  Tech Stack
 
-| Technology  | Purpose                   |
-| ----------- | ------------------------- |
-| Java        | Core Programming Language |
-| JDBC        | Database Connectivity     |
-| PostgreSQL  | Relational Database       |
-| Eclipse IDE | Development Environment   |
-| SQL         | Database Schema & Queries |
+| Technology  | Purpose                                             |
+| ----------- | --------------------------------------------------- |
+| Java        | Core Programming Language                           |
+| OOP         | Applied Object-Oriented Programming principles      |
+| JDBC        | Database Connectivity between Java and PostgreSQL   |
+| PostgreSQL  | Relational Database                                 |
+| Eclipse IDE | Development Environment                             |
+| SQL         | Used for schema design and database operations      |
 
 ---
 
@@ -257,14 +260,5 @@ Operations     Cars
 * SQL Constraints
 * Properties File Configuration
 * Package Organization
-
----
-
-# 👨‍💻 Author
-
-**Your Name**
-
-* Java Developer
-* JDBC | PostgreSQL | Core Java
 
 ---
