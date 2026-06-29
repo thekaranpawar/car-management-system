@@ -86,7 +86,7 @@ Search cars by Name, Brand, Color, Manufacturing Year, or Fuel Type.
 
 Add a new car to the inventory (Admin only).
 
-![Add Car](screenshots/insert.png)
+![Add Car](screenshots/insert-car.png)
 
 ---
 
